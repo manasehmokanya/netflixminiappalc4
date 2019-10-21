@@ -39,20 +39,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     </a>
 </p>
 
-*Clone and Download the files
-*Extract the files to a folder
-*installed nodejs and angular in your computer
-*Navigate to the project folder using your command prompt
-*Run npm install
-*Then Run ng serve
-*Then  open http://localhost:4200 
+* Clone and Download the files
+* Extract the files to a folder
+* Installed nodejs and angular in your computer
+* Navigate to the project folder using your command prompt
+* Run npm install
+* Then Run ng serve
+* Then  open http://localhost:4200 
 * User authentification (Google, Twitter and Facebook)
 * Get informations about a movie (description, cast, similar movies, etc.)
 * Save the movies you want to watch later or save your favorites movies
 * Share a movie with your community (Google +, Facebook, Twitter or by mail)
 * Firebase implementations for data in real time
 * Keep navigation when you are offline !
-*
+* Visit this link for live project https://landofstudies.com/netflixminiappalc4
 
 My purpose is to built a great application as allocine or tv show time, using the power of Angular in respect of ALC4.0 project to develop an app like Netflix Mini App.
 
