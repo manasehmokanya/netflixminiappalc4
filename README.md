@@ -1,7 +1,7 @@
-# HubMovies
+# NetflixMiniApp
 
 <p align="center">
-    <a href="https://hubmovies-a26fc.firebaseapp.com"><img src="https://rawgit.com/clamarque/hub-movies/master/src/assets/icons/android-chrome-192x192.png" alt="logo" />
+    <a href="https://netflixminiapp.firebaseio.com"><img src="http://landofstudies.com/netflixminiappalc4/assets/icons/android-chrome-192x192.png" alt="logo" />
     </a>
 </p>
 
@@ -35,18 +35,26 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## How to use it ?
 
 <p align="center">
-    <a href="https://hubmovies-a26fc.firebaseapp.com"><img src="https://github.com/clamarque/hub-movies/blob/master/src/assets/images/demo.jpg" alt="demo" />
+    <a href="https://hubmovies-a26fc.firebaseapp.com"><img src="http://landofstudies.com/netflixminiappalc4/assets/images/demo.jpg" alt="demo" />
     </a>
 </p>
 
+*Clone and Download the files
+*Extract the files to a folder
+*installed nodejs and angular in your computer
+*Navigate to the project folder using your command prompt
+*Run npm install
+*Then Run ng serve
+*Then  open http://localhost:4200 
 * User authentification (Google, Twitter and Facebook)
 * Get informations about a movie (description, cast, similar movies, etc.)
 * Save the movies you want to watch later or save your favorites movies
 * Share a movie with your community (Google +, Facebook, Twitter or by mail)
 * Firebase implementations for data in real time
 * Keep navigation when you are offline !
+*
 
-My purpose is to built a great application as allocine or tv show time, using the power of Angular.
+My purpose is to built a great application as allocine or tv show time, using the power of Angular in respect of ALC4.0 project to develop an app like Netflix Mini App.
 
 ## Update font
 
